@@ -1,5 +1,3 @@
-# Vaseem_Portfolio
-
 # [project 1: Data Science Salary Estimators: Project overview](https://github.com/Ne04ever/da_salary_project)
 * Data science project practice using youtube tutorial
 * created a tool to estimate data science jobs salaries
